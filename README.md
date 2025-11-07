@@ -174,13 +174,6 @@ This project fulfills all requirements for BIM493 Mobile Programming I Assignmen
 - ✅ Keywords (static, super, this)
 - ✅ UI with 3 pet cards and total count
 
-## 👨‍💻 Author
-
-*[Your Name]*
-- Student ID: [Your Student ID]
-- Course: BIM493 Mobile Programming I
-- Assignment: #2
-- Due Date: November 12, 2025
 
 ## 📄 License
 
