@@ -1,8 +1,8 @@
 # Smart Pet Manager App 🐾
 
 **BIM493 Assignment #2**  
-Batuhan Mert Yücetürk - 42067670192  
-Kemal Furkan Saygılı - 26923770332
+Batuhan Mert Yücetürk  
+Kemal Furkan Saygılı
 
 A modern Flutter application demonstrating Object-Oriented Programming (OOP) principles through an interactive pet management system.
 
@@ -522,8 +522,8 @@ This project is created for educational purposes as part of BIM493 Mobile Progra
 
 ## 👨‍💻 Authors
 
-- **Batuhan Mert Yücetürk** - Student ID: 42067670192
-- **Kemal Furkan Saygılı** - Student ID: 26923770332
+- **Batuhan Mert Yücetürk**
+- **Kemal Furkan Saygılı**
 
 **Course**: BIM493 - Mobile Programming I  
 **Assignment**: #2 - Object-Oriented Programming with Flutter
